@@ -1,0 +1,40 @@
+.wrap .nav-tab-wrapper {
+    margin-bottom: 20px;
+}
+
+.wrap .tab-content {
+    margin-top: 20px;
+}
+
+.wrap .tab-pane {
+    display: none;
+}
+
+.wrap .tab-pane.active {
+    display: block;
+}
+
+.wrap .status {
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.wrap .status-processing {
+    background: #fff4e5;
+    color: #856404;
+}
+
+.wrap .status-completed {
+    background: #d4edda;
+    color: #155724;
+}
+
+.wrap .pagination {
+    margin-top: 20px;
+}
+
+.wrap .thumbnail {
+    max-width: 100px;
+    height: auto;
+} 
